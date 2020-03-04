@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "localhost",
+    "user": "cvm",
+    "password": "cvm123",
+    "connectionLimit": 10,
+    "database": "cvm"
+  }
+}
